@@ -7,7 +7,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="260" src="https://i.imgur.com/pAsEEHY.gif"  />
+  <img height="320" src="https://i.imgur.com/pAsEEHY.gif"  />
 </div>
 
 ###
